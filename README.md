@@ -23,3 +23,4 @@ This example deploys self-hosted version of [Ghost](https://ghost.org/). Interna
   - To add a theme, first add the package as a dependency to the `package.json` file and then add it to the list of themes in the `bin/themes.sh` file.
   - Do NOT add a theme directly using the Ghost UI, it will look like it worked but will break whenever you deploy your app again.
   
+ 
